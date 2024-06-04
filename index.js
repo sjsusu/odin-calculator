@@ -2,7 +2,7 @@ let num1 = "";
 let num2 = "";
 let operator = null;
 
-let buttons = document.querySelector("body");
+let buttons = document.querySelector(".calculator");
 let display = document.querySelector(".display");
 
 function add(x, y) {
